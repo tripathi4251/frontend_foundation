@@ -21,4 +21,5 @@ a {
 #model {
     text-align: center;
     text-decoration:  green wavy underline;
+    text-transform: uppercase;
 }
