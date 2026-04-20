@@ -3,7 +3,7 @@ h1 {
 }
 
 a {
-    color:yellow;
+    color:rgba(255, 255, 0, 0.822);
     font-size: 30px;
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 p1 {
-    color:bisque;
+    color:rgba(255, 228, 196, 0.922);
     font-size: 20px;
 }
 h3 {
