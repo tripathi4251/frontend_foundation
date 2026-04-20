@@ -1,0 +1,24 @@
+#car {
+    text-align: center;
+    text-decoration:  green underline;
+    text-transform: uppercase;
+}
+
+p {
+    text-align: center;
+    color:rgb(222, 127, 11);
+    text-decoration:  brown solid underline;
+}
+
+a {
+    display: block;
+    text-align: center;
+    text-decoration:  pink wavy underline;
+    color: red;
+    font-size: 30px;
+}
+
+#model {
+    text-align: center;
+    text-decoration:  green wavy underline;
+}
