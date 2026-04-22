@@ -1,0 +1,21 @@
+.navbar {
+    background-color: black;
+    height: 80px;
+    color: white;
+}
+
+#o {
+    color: white;
+    background-color: goldenrod;
+    
+}
+
+#p {
+    color: goldenrod;
+}
+
+a {
+    margin-right: 200px;
+    color: white;
+    font-size: 20px;
+}
