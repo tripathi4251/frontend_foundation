@@ -1,0 +1,53 @@
+body {
+    background-color: lightgreen;
+}
+
+
+div{
+    border-style:solid;
+    background-color: white;
+    width:350px;
+    height:450px;
+    margin: auto;
+    margin-top: 150px;
+    border: none;
+    border-radius: 10px;
+}
+
+
+button {
+    background-color: darkblue;
+    color: white;
+    display:block;
+    font-size:25px;
+    margin: 10px auto;
+    padding: 12px;
+    padding-right: 234px;
+    height: 62px;
+    text-align: center;
+}
+
+.o {
+    padding: 0px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#p {
+    text-align: center;
+    font-size: 25px;
+}
+
+h2 {
+    padding-top: 1px;
+    text-align: center;
+    font-size:28px;
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width:192px;
+    height:195px;
+}
