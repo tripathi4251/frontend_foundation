@@ -1,0 +1,48 @@
+div {
+    border-style: dashed;
+    background-color: bisque;
+    color:brown;
+    width:500px;
+    height:230px;
+    text-align:center;
+    padding-top: 60px;
+    margin-top: 30px;
+    display: inline-block;
+    position:relative;
+    left: 25px;
+
+}
+
+.o {
+    border-style: dashed;
+    border-color: black;
+    background-color: blue;
+    color:greenyellow; 
+    width: 350px;
+    height:200px;
+    padding-top: 90px;
+    text-align: center;
+    margin-top: 70px;
+    display: inline-block;
+    position: relative;
+    top:10px;
+    right: 23px;
+
+}
+
+
+.e {
+    border-style: solid;
+    border-color: blueviolet;
+    background-color: blanchedalmond;
+    color: black;
+    width: 450px;
+    height:200px;
+    text-align: center;
+    padding-top: 70px;
+    display: inline-block;
+    position:  relative;
+    top: 35px;
+    right: 35px;
+    border-radius: 20px;
+}
