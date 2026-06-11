@@ -1,0 +1,18 @@
+a {
+    font-size:30px;
+    border-style:solid;
+    background-color:lightblue;
+    border-style: solid;
+    padding: 105px 50px 100px 70px;
+    display:inline-block;
+}
+
+a:hover {
+    color:peru;
+    background-color:pink;
+    border-style: dotted;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    font-size:45px;
+
+}
