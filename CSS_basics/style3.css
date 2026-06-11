@@ -1,0 +1,20 @@
+div {
+    border-style: solid;
+    background-color: aqua;
+    color:green;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: 255px;
+    height: 200px;
+    font-size: 35px;
+    transition-property: all;
+    transition-duration: 3s;
+}
+
+div:hover{
+    border-style: dashed;
+    border-color: blue;
+    background-color: red;
+    font-size: 40px;
+color: white;
+}
