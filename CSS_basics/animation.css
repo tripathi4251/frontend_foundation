@@ -1,0 +1,71 @@
+#e {
+    border-style: solid;
+    background-color: blue;
+    color: white;
+    position: relative;
+    border-color:black;
+    width:100px;
+    height:70px;
+    text-align: center;
+    top: 200px;
+    animation-name: rotate;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+    animation-timing-function: ease-out;
+    
+}
+
+#w {
+     border-style: solid;
+    background-color: purple;
+    color: white;
+    position: relative;
+    border-color:black;
+    width:100px;
+    height:70px;
+    text-align: center;
+    margin-top: 20px;
+    left:300px;
+    top: 145px;
+    animation-name: rotate1;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+
+
+#p {
+     border-style: solid;
+    background-color: green;
+    color: white;
+    position: relative;
+    border-color:black;
+    width:100px;
+    height:70px;
+    text-align: center;
+    margin-top: 20px;
+    left:700px;
+    animation-name: rotate3;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-direction: normal;
+}
+
+
+@keyframes rotate{
+    from{background-color: blue;}
+    to{ background-color: brown; transform: rotate(360deg);}
+}
+
+@keyframes rotate1 {
+     from{background-color: purple;}
+    to{ background-color: blue; transform: rotate(360deg);}
+}
+
+
+@keyframes rotate3 {
+     from{background-color: green;}
+    to{ background-color: yellow; transform: rotate(360deg);}
+}
+
