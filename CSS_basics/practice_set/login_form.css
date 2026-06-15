@@ -1,0 +1,100 @@
+body {
+    background-image: url("couple-bus-sunset.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+div {
+    background-color: none;
+    border-style: solid;
+    margin: auto;
+    border-radius: 20px;
+    border-color: skyblue;
+    width:500px;
+    height: 350px;
+    position: relative;
+    top: 150px;
+    left:20px;
+    backdrop-filter:blur(15px);
+    box-shadow: 20px 20px 50px 15px rgb(28, 138, 179);
+    
+}
+
+
+label {
+    color: white;
+    position: relative;
+    top: 20px;
+    left:120px;
+
+
+}
+
+input {
+    border-radius: 10px;
+    color: skyblue;
+    background-color: transparent;
+    padding-left: 20px;
+    position: relative;
+    left: 120px;
+    top: 20px;
+ width:250px;
+ height:35px;
+ border-color:white;
+ font-size: 17px;
+}
+
+.w {
+    width:20px;
+    height:15px;
+
+}
+
+button{
+    border-radius:20px;
+    background-color: transparent;
+    color:white;
+    width:290px;
+    position: relative;
+    left:120px;
+    height:40px;
+    border-color: white;
+}
+
+
+button:hover {
+    background-color:darkgreen;
+}
+
+.o {
+color:white;
+position:relative;
+left:20px;
+}
+
+p {
+    color:white;
+    position:relative;
+    left:140px; 
+}
+
+
+#s {
+    position: relative;
+    top: 35px;
+    font-size: 19px;
+}
+
+
+#c{
+    position: relative;
+    top: 35px;
+    font-size: 19px;
+}
+
+
+input:hover {
+    border-color: skyblue;
+}
