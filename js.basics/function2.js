@@ -19,3 +19,16 @@ function multiply(x,y) {
 }
 
 console.log(multiply(2,3));
+
+//for each function
+let arr=["pune","delhi","mumbai"];
+arr.forEach((val) =>  {
+console.log(val);
+})
+
+// for a given array of numbers , print the square of each value using the foreach loop..
+let nums=[67,52,39];
+nums.forEach((num) => {
+    console.log(num*num);
+});
+
