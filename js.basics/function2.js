@@ -32,3 +32,14 @@ nums.forEach((num) => {
     console.log(num*num);
 });
 
+// map function
+let num=[67,52,39];
+num.map((val) => {
+    console.log(val);
+});
+
+// for square roots
+let n = [67,52,39];
+let newarr =n.map((val) => {
+    return val*val;
+});
