@@ -5,6 +5,10 @@
 
 }
 
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
 .navbar{
     display: flex;
     align-items: center;
@@ -34,7 +38,7 @@ p{
     color: #555;
 }
 
-.conatiner{
+.container{
     max-width: 1300px;
     margin: auto;
     padding-left: 25px;
@@ -63,4 +67,17 @@ p{
     font-size: 50px;
     line-height: 60px;
     margin: 25px 0;
+}
+
+.btn{
+    display: inline-block;
+    background: #ff523b;
+    color: #fff;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+}
+
+.header{
+    background: radial-gradient(#fff,#ffd5d6);
 }
