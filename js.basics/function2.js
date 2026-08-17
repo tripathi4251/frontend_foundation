@@ -39,7 +39,7 @@ num.map((val) => {
 });
 
 // for square roots
-let n = [67,52,39];
+let n = [67,52,49];
 let newarr =n.map((val) => {
     return val*val;
 });
