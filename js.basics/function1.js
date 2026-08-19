@@ -11,7 +11,7 @@ function multiply(a,b) {
     return a+b;
  }
 
- let sum1= add(5,6);
+ let sum1= add(5,9);
  let sum2 = add(50,50);
 
  console.log(sum1 , sum2);
