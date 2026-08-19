@@ -16,7 +16,7 @@ if (num%2!==0){
 }
 */
 
-let gamenum= 25;
+let gamenum= 26;
 let usernum = prompt("guess the game number:");
 while (usernum!=gamenum){
     usernum=prompt("you entered wrong number, guess again:");
