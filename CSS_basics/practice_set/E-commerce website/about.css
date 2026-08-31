@@ -141,8 +141,16 @@ a {
   width: 100%;
   height: 320px;
   border-radius: 16px;
-  background: linear-gradient(135deg, var(--navy), var(--orange));
-  opacity: 0.9;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.story-image img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 16px;
+    display: block;
 }
 
 .story-text {
