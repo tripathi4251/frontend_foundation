@@ -246,8 +246,10 @@ a {
   flex: 1;
   min-height: 220px;
   border-radius: 16px;
-  background: linear-gradient(135deg, var(--navy), var(--orange));
-  opacity: 0.9;
+  background-image: url("WhatsApp\ Image\ 2026-08-31\ at\ 6.18.32\ PM.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .social-block {
