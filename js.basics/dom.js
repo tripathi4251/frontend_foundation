@@ -14,6 +14,8 @@
 let heading=document.querySelector("#title");
 console.log(heading);
 heading.innerText="me";
+heading.style.color="red";
+
 
 let para1=document.querySelectorAll(".heading");
 console.log(para1);
