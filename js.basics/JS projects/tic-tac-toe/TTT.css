@@ -32,6 +32,7 @@ body {
     box-shadow: 0 0 1rem rgba(0,0,0, 0.3);
     font-size: 8vmin;
     color: #b0413e;
+    background-color: #fffc7f;
  }
 
 
@@ -39,7 +40,32 @@ body {
     padding: 1rem;
     font-size: 1.25rem;
     background-color: #191913;
+    color: #fffefaee;
+    border-radius: 1rem;
+    border: none;
+}
+
+
+#new-btn{
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #191913;
     color: #fff;
     border-radius: 1rem;
     border: none;
 }
+
+
+#msg {
+    color: #efef5f;
+    font-size: 5vmin;
+}
+
+.msg-Container {
+    height: 30vmin;
+}
+
+.hide {
+    display: none;
+}
+
