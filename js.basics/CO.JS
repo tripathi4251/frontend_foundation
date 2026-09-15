@@ -20,6 +20,7 @@ class student  {
 
 let student1 = new student("akshat" , 21);
 student1.introduce();
+console.log(student1.age);
 
 class Toyotacar {
     constructor(brand,mileage){
